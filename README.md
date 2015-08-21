@@ -13,5 +13,6 @@ Components:
 * Needles
 * Fabric glue
 * Cushion cover
+* Multimeter
 
 Inspired by Leah Buechley's Turn Signal Biking Jacket - http://web.media.mit.edu/~leah/LilyPad/build/turn_signal_jacket.html
